@@ -1,3 +1,1 @@
-import { Uses } from './Uses';
-
-export default Uses;
+export * from './Uses';
